@@ -8,3 +8,4 @@
 6. install numpy(opencv python depency numpy)
 7. uzip opencv and opencv-contrib
 8. compile opencv 
+   
